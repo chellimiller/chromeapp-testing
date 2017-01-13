@@ -1,5 +1,4 @@
 {
-	// App Details
 	"name": "Testing for Fun and Profit",
 	"version": "0.1",
 	"description": "Move along, nothing to see here",
@@ -9,6 +8,4 @@
 			"scripts": ["background.js"]
 		}
 	},
-	
-	//"icons": {...}
 }
